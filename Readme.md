@@ -126,7 +126,7 @@ http://localhost:8080
 1. ➕ Create a new freestyle project - "CloneAndRunPythonScript"
 2. ⚙️ Configure the project
    - **📂 Source Code Management:**
-     - Select "Git" and provide the repository URL (https://github.com/devopsjourney1/jenkins-101)
+     - Select "Git" and provide the repository URL `https://github.com/SurajaHasarinda/Jenkins-Basics`
      - If the repository is private, add credentials to access it
      - Branch Specifier: Set to `*/main` or the appropriate branch
    - **🔨 Build Steps:**
